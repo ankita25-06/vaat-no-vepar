@@ -223,3 +223,6 @@ nav{white-space:nowrap}
 .pp{padding:5px 12px;border:1.5px solid var(--ink);border-radius:99px;font-size:13px;font-weight:700;transition:background .2s,border-color .2s,color .2s}.pp:hover{background:var(--y);border-color:var(--y);color:#0a0a0a}
 .srs+.nph{margin-top:48px;padding-top:40px;border-top:1px solid var(--line)}
 @media(prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.feat h1 span{opacity:1;transform:none}}
+.logo-img .custom-logo-link{display:block}
+.logo-img img,.custom-logo{max-height:48px;width:auto;height:auto;display:block}
+header.sc .logo-img img{max-height:40px}
